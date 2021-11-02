@@ -49,6 +49,6 @@ function areAllFourSameOrEqual(a,b,c,d){
 
 console.log(areBothSame("5",2))
 console.log(areBothEqual("5",5))
-console.log(areAllFourEqual(2,"2",2,2))
+console.log(areAllFourEqual(2,"2",2,"2"))
 console.log(areAllFourSame("2","2","2",2))
 console.log(areAllFourSameOrEqual(2,2,"2","2"))
